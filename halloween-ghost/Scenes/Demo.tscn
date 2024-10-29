@@ -429,4 +429,5 @@ tile_set = SubResource("TileSet_qoj75")
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="Node2D" parent="." instance=ExtResource("15_h0mve")]
+position = Vector2(4, 0)
 scale = Vector2(3, 3)
